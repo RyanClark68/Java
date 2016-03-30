@@ -1,0 +1,23 @@
+package myclone;
+
+/**
+ *
+ * @author ryan.clark3
+ */
+public class Myclone {
+    private String firstname;
+
+    public String getFirstname() {
+        return firstname;
+    }
+    private String lastname;
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        String firstname = "Ryan";
+        String lastname = "Clark";
+    }
+    
+}
